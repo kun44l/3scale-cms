@@ -32,6 +32,7 @@ public class LocalFileCmsObjectGenerator {
             ".jpg", "image/jpeg",
             ".jpeg", "image/jpeg",
             ".js", "text/javascript",
+            ".json", "text/javascript",
             ".png", "image/png",
             ".txt", "text/plain"
         );
